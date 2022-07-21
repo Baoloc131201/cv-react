@@ -1,0 +1,19 @@
+
+.textup{
+height: 40px;
+  width: 40px;
+ line-height: 40px;
+  border-radius: 50%;
+  font-size: 7px;
+  background-color: #1088e9;
+  color: white;
+  text-align: center;
+  position: absolute;
+  right: 10px;
+  bottom:90px;
+  cursor: pointer;
+}
+.textup:hover{
+    background-color: aqua;
+    color: black;
+}
